@@ -1,0 +1,10 @@
+.focus{
+    padding: 5px;
+    border-radius: 10px;
+    transition: all .3s;
+}
+.focus:hover , .focus:active{
+    border: 2px solid rgb(0, 92, 128);
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);}
+
+    
